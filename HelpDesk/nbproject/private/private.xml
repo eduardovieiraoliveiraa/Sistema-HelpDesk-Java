@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/SolucaoUser.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/dao/ProblemaDAO.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/SolucaoTecnico.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/modelo/Chamado.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/util/Relatorio.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/util/Conexao.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/iconeif.png</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/CadastroChamado.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/dao/ChamadoDAO.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/TelaTecnico.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/dao/SolucaoDAO.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/CadastroUsuario.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/modelo/Usuario.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/TelaLogin.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/PesquisaUsuario.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/CadastroProblema.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/SolucaoDetalhes.java</file>
+            <file>file:/C:/Users/eduar/Documents/NetBeansProjects/HelpDesk/src/br/edu/ifpr/projeto/helpDesk/visao/CadastroSetor.java</file>
+        </group>
+    </open-files>
+</project-private>
