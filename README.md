@@ -1,4 +1,4 @@
-# HelpDesk_JavaHelpDesk Java
+# Sistema HELP DESK desenvolvido como avaliação de Programação II NO Curso de Sistemas de Informação IFPR PALMAS PR
 
 Olá jovem programador!!
 
